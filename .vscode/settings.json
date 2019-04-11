@@ -1,0 +1,3 @@
+{
+  "python.linting.pylingArgs": ["--load-plugins", "pylint_django"]
+}
