@@ -11,6 +11,7 @@ python-decouple = "*"
 sqlite3 = "*"
 sqlite = "*"
 djangorestframework = "*"
+django-cors-headers = "*"
 
 [requires]
 python_version = "3.7"
